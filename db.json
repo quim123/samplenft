@@ -1,24 +1,26 @@
-[
-        "tokens":
-        {
-            "id": 0,
-            "description": "NFT Plants",
-            "external_url": "https://www.goenergy.cat/nftsuoc",
-            "image": "https://www.goenergy.cat/nftsuoc/cactus.svg",
-            "name": "NFT Plants 0"
-        },
-        {
-            "id": 1,
-            "description": "NFT Plants",
-            "external_url": "https://www.goenergy.cat/nftsuoc",
-            "image": "https://www.goenergy.cat/nftsuoc/sunflower.svg",
-            "name": "NFT Plants 1"
-        },
-        {
-            "id": 2,
-            "description": "NFT Plants",
-            "external_url": "https://www.goenergy.cat/nftsuoc",
-            "image": "https://www.goenergy.cat/nftsuoc/tulip.svg",
-            "name": "NFT Plants 2"
-        }
-]
+{
+        "tokens":[
+
+                {
+                    "id": 0,
+                    "description": "NFT Plants",
+                    "external_url": "https://www.goenergy.cat/nftsuoc",
+                    "image": "https://www.goenergy.cat/nftsuoc/cactus.svg",
+                    "name": "NFT Plants 0"
+                },
+                {
+                    "id": 1,
+                    "description": "NFT Plants",
+                    "external_url": "https://www.goenergy.cat/nftsuoc",
+                    "image": "https://www.goenergy.cat/nftsuoc/sunflower.svg",
+                    "name": "NFT Plants 1"
+                },
+                {
+                    "id": 2,
+                    "description": "NFT Plants",
+                    "external_url": "https://www.goenergy.cat/nftsuoc",
+                    "image": "https://www.goenergy.cat/nftsuoc/tulip.svg",
+                    "name": "NFT Plants 2"
+                }
+        ]
+}
