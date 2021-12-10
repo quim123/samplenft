@@ -3,24 +3,24 @@
 
                 {
                     "id": 0,
-                    "description": "NFT Plants",
+                    "description": "NFT Test",
                     "external_url": "https://www.goenergy.cat/nftsuoc",
                     "image": "https://twemoji.maxcdn.com/svg/1f40e.svg",
-                    "name": "NFT Plants 0"
+                    "name": "NFT Test 0"
                 },
                 {
                     "id": 1,
-                    "description": "NFT Plants",
+                    "description": "NFT Test",
                     "external_url": "https://www.goenergy.cat/nftsuoc",
                     "image": "https://twemoji.maxcdn.com/svg/1f410.svg",
-                    "name": "NFT Plants 1"
+                    "name": "NFT Test 1"
                 },
                 {
                     "id": 2,
-                    "description": "NFT Plants",
+                    "description": "NFT Test",
                     "external_url": "https://www.goenergy.cat/nftsuoc",
                     "image": "https://twemoji.maxcdn.com/svg/1f413.svg",
-                    "name": "NFT Plants 2"
+                    "name": "NFT Test 2"
                 }
   ]
 }
